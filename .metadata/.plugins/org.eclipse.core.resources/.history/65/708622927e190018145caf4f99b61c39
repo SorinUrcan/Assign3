@@ -1,0 +1,22 @@
+
+public class Main {
+	public static void main(String[] args) {
+		int counter = 0;
+        while (counter <= 100) {
+        	counter = counter + 1;
+        	switch(counter) {
+        	case 3:
+        		System.out.print("Coffee");
+        		break;
+        	case 5:
+        		System.out.print("Mug");
+        		break;
+        	default:
+        		System.out.print(counter);
+        		break;
+        	}
+        	System.out.println();
+        }
+    }
+	
+}

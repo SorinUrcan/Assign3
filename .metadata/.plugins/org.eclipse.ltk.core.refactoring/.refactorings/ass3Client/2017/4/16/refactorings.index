@@ -1,0 +1,18 @@
+1492689858359	Rename package 'model.dataz'
+1492692241578	Delete element
+1492692244713	Delete element
+1492692247387	Delete element
+1492692336103	Rename type 'LoginVew'
+1492692410259	Delete element
+1492695104206	Delete element
+1492695299031	Delete element
+1492695331378	Delete element
+1492695927213	Delete element
+1492765834604	Rename type 'UserModel'
+1492766419085	Rename type 'AdminCView'
+1492768080774	Infer generic type arguments
+1492768087370	Infer generic type arguments
+1492792407133	Delete element
+1492801400654	Copy compilation unit
+1492801504575	Rename local variable 'doctorModel'
+1492801531343	Rename field 'doctorModel'
